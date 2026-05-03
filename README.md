@@ -54,6 +54,7 @@ Simulated real-world IT issues:
 Password resets
 Profile issues
 Network troubleshooting
+
 📫 Connect With Me
 LinkedIn: https://www.linkedin.com/in/alex-handal-b47077177/
 Email: alex.interamerica@gmail.com
