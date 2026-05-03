@@ -55,5 +55,5 @@ Password resets
 Profile issues
 Network troubleshooting
 📫 Connect With Me
-LinkedIn: (add your link)
-Email: (optional)
+LinkedIn: https://www.linkedin.com/in/alex-handal-b47077177/
+Email: alex.interamerica@gmail.com
